@@ -5,6 +5,7 @@ This repository contains write-ups of machines that I did to practice for the CB
 ## Machines
 
 ✓ Bashed
+
 BountyHunter
 Friendzone
 Bastion
