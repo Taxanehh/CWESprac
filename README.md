@@ -7,7 +7,6 @@ This repository contains write-ups of machines that I did to practice for the CB
 ✓ Bashed
 ✓ BountyHunter
 ✓ Friendzone
-✓ Bastion
 ✓ Return
 ✓ Cronos
 Shibboleth
